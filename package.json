@@ -1,0 +1,29 @@
+{
+  "name": "login_v4",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sinanknlk/cdtp.git"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "Sinan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninakvach/cdtp/issues"
+  },
+  "homepage": "https://github.com/ninakvach/cdtp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+    "engines": {
+    "node": "12.11.1"
+ }
+}
